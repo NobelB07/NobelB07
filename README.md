@@ -23,7 +23,7 @@
 
 
 # 📊 GitHub Stats:
-<img align="right" height="100" width="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3p3OWZzcnFvb2YzNmpjNnA1eWtlMXdrMmxvbjIxa2RjZjQxaDhyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  /><br/>
+<img align="right" height="250" width="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3p3OWZzcnFvb2YzNmpjNnA1eWtlMXdrMmxvbjIxa2RjZjQxaDhyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  /><br/>
 ![](https://github-readme-stats.vercel.app/api?username=NobelB07&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=NobelB07&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NobelB07&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
