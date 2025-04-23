@@ -35,9 +35,6 @@
 [![](https://visitcount.itsvg.in/api?id=NobelB07&icon=0&color=10)](https://visitcount.itsvg.in)
 
 <img align="left" height="450" width="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3p3OWZzcnFvb2YzNmpjNnA1eWtlMXdrMmxvbjIxa2RjZjQxaDhyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  /><br/>
-<footer>
-  This is a footer test for a short page
-</footer>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
