@@ -37,8 +37,7 @@
 </div>
 
 
-# 📊 GitHub Stats:
-<img align="right" height="500" width="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3p3OWZzcnFvb2YzNmpjNnA1eWtlMXdrMmxvbjIxa2RjZjQxaDhyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  /><br/>
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NobelB07&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=NobelB07&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NobelB07&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -49,7 +48,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NobelB07&icon=0&color=10)](https://visitcount.itsvg.in)
-
+<img align="left" height="100" width="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3p3OWZzcnFvb2YzNmpjNnA1eWtlMXdrMmxvbjIxa2RjZjQxaDhyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  /><br/>
+<br/>
+<br/>
+<br/>
 
 <h2>My Favourite person❤️:</h2>
 <a href="https://myaccount.google.com/?utm_source=OGB&utm_medium=app" target="_blank" align>
