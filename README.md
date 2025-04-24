@@ -14,7 +14,7 @@
      <img src="https://img.shields.io/badge/- -FFFFFF?style=for-the-badge&logoColor=000000&label=" alt="." height="35" />
 </div>
 
-<img align="left" width="580" hei src="https://i.pinimg.com/originals/31/e1/03/31e1037b1b30c313806263929812df66.gif"  /><br/>
+<img align="left" width="575" hei src="https://i.pinimg.com/originals/31/e1/03/31e1037b1b30c313806263929812df66.gif"  /><br/>
 <br clear="both"><br/>
 
 
