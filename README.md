@@ -2,7 +2,7 @@
 <br clear="both"><br/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=FFFFFF&width=1000&lines=Hi+👋!+My+name+is+Nobel+and+I'm+still+learning.;I+study+BCA+(4th+Semester)+in+LGIC.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=FFFFFF&width=1000&lines=I+am+Nobel+(still+learning).;I+study+BCA+(4th+Semester)+in+LGIC.;)](https://git.io/typing-svg)
 
 
 # 💻 Tech Stack:
