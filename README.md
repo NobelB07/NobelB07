@@ -1,4 +1,5 @@
- <div style="display: flex; gap: 20; align-items: center;">
+<p align="center">
+<div style="display: flex; gap: 20; align-items: center;">
      <img src="https://img.shields.io/badge/- -FFFFFF?style=for-the-badge&logoColor=000000&label=" alt="." height="35" />
   <img src="https://img.shields.io/badge/- -FFFFFF?style=for-the-badge&logo=naver&logoColor=black&label=" alt="N" height="35" />
   <img src="https://img.shields.io/badge/- -FFFFFF?style=for-the-badge&logo=osano&logoColor=black&label=" alt="O" height="35" />
@@ -14,11 +15,6 @@
      <img src="https://img.shields.io/badge/- -FFFFFF?style=for-the-badge&logoColor=000000&label=" alt="." height="35" />
 </div>
 
-<img align="left" width="575" hei src="https://i.pinimg.com/originals/31/e1/03/31e1037b1b30c313806263929812df66.gif"  /><br/>
-<br clear="both"><br/>
-
-
-<p align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=33&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=+console.log(%22Hello+World!%22);+I'm+Nobel.;+BCA+6th+Semester+%40+LGIC.)](https://git.io/typing-svg)
 
